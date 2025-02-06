@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Nontapan Chanadee.</h1>
+<h1>Hi 👋, I'm Nontapan Chanadee👹🔱.</h1>
 <p>💻 4th-year Computer Engineering student at Chiang Mai University</p>
 <p>💡 Currently working on my senior project</p>
 <p>📊 Passionate about Data Analytics & Problem-Solving</p>
