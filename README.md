@@ -45,13 +45,13 @@
   <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 </p>
 
-<h1>⚡️ Where to find me</h1>
+<h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nontapan-chanadee-b192b31b6/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
-<h1>📊 GitHub Stats</h1>
-![](https://github-readme-stats.vercel.app/api?username=Ismailax&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ismailax&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Ismailax&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 
-<h1>🏆 GitHub Trophies</h1>
+
+<h2>🏆 GitHub Trophies</h2>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ismailax" alt="Ismailax" /></a></p>
