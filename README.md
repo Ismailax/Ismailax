@@ -1,3 +1,4 @@
+<!-- 
 <h1>Hi 👋, I'm Nontapan Chanadee👹🔱.</h1>
 <p>💻 4th-year Computer Engineering student at Chiang Mai University</p>
 <p>💡 Currently working on my senior project</p>
@@ -55,3 +56,5 @@
 
 <h2>🏆 GitHub Trophies</h2>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ismailax" alt="Ismailax" /></a></p>
+--->
+
